@@ -23,6 +23,3 @@ Thumbs.db
 *.war
 *.ear
 dependency/
-
-# Arquivos e configurações de IDEs opcionais
-.vscode/
