@@ -1,0 +1,28 @@
+# Diretórios de compilação e binários
+bin/
+target/
+
+# Arquivos de configuração do Eclipse
+.project
+.classpath
+.settings/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de pacotes e bibliotecas locais (JARs)
+*.jar
+*.war
+*.ear
+dependency/
+
+# Arquivos e configurações de IDEs opcionais
+.vscode/
