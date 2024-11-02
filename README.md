@@ -15,31 +15,6 @@
 - **Apache Commons IO**: Manipulação de arquivos.
 - **Apache Commons Lang**: Utilitários de manipulação de strings e números.
 
-## Estrutura do Projeto
-OrdenacaoDeCordenadas/
-├── src/
-│   └── main/
-│       └── java/
-│           └── br/
-│               └── com/
-│                   └── projeto/
-│                       └── ordenacao/
-│                           ├── controller/
-│                           │   └── CriaArquivo.java               # Controle da criação e manipulação de arquivos
-│                           ├── model/
-│                           │   ├── algoritmos/
-│                           │   │   ├── BubbleSort.java                # Algoritmo de ordenação Bubble Sort
-│                           │   │   ├── HeapSort.java                  # Algoritmo de ordenação Heap Sort
-│                           │   │   ├── MergeSort.java                 # Algoritmo de ordenação Merge Sort
-│                           │   └── ProcessadorDeOrdenacao.java        # Lógica principal de ordenação
-│                           └── view/
-│                               ├── Main.java                     # Classe principal da aplicação
-│                               └── PainelOrdenacao.java          # Interface gráfica para manipulação das coordenadas
-├── pom.xml                          # Arquivo de configuração do Maven
-└── target/                          # Diretório de build gerado pelo Maven
-
-
-
 ### Descrição das pastas
 
 - **controller/**: Contém classes para o controle da aplicação, como criação e manipulação de arquivos.
