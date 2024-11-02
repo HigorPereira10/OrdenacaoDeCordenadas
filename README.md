@@ -1,4 +1,4 @@
-# OrdenacaoDeCordenadas
+# OrdenadorDeCordenadas
 
 É uma aplicação em Java que permite organizar e manipular coordenadas de forma rápida e eficiente. Com uma interface gráfica intuitiva e algoritmos de ordenação, o programa facilita o processamento de grandes volumes de dados geoespaciais.
 
